@@ -1,0 +1,27 @@
+{
+    "fleet_channel": 1483831822407303201,
+    "ticket_role": 1483831760692183231,
+    "ticket_results_channel": 1483831822407303201,
+    "ticket_panel_channel": 1471504682491973643,
+    "ticket_questions": {
+        "family": [
+            {
+                "label": "Где был? и когда",
+                "placeholder": "",
+                "style": "long"
+            },
+            {
+                "label": "как дела",
+                "placeholder": "",
+                "style": "short"
+            }
+        ]
+    },
+    "welcome_image": "https://media.discordapp.net/attachments/810556656588554240/1236323803596849242/photo_5310057506623579929_x.gif?ex=69bb5f84&is=69ba0e04&hm=9fc443206d2c1139d681b59e7de0ba7cff41509bdd399886dced1a259b294edb&=",
+    "welcome_message": "Дароу как дела",
+    "welcome_channel": 1483739498826170410,
+    "family_name": "Valdez",
+    "ticket_panel_image": "https://media.discordapp.net/attachments/1028198561155911713/1048552772599021578/tvoyama.gif?ex=69bbd5de&is=69ba845e&hm=8efa99a5cf3576e52e7f5bd583802255ed260aa33e6fbd75b7dfcfcffc2faaa2&",
+    "ticket_voice_channel": 1483739498826170411,
+    "afk_channel": 1483831822407303201
+}
